@@ -41,3 +41,26 @@ What value do you think it offers?
 
     It is separated work space which is visible for the repo commit. So, you
     can prepare the commit actions.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Put all the logical changed file in the staging area then commit at once.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+    Develope a separate feature which will not impact the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+    Tell where was the new branch created based on Commit (ID)
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+    All the comments in both branches are merged togather. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Automatic merging save the commits in order.  Manual merges allow to resolve the 
+    conflicts. 
